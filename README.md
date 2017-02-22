@@ -1,6 +1,3 @@
-# Coulson
-Coulson Financial Services Website
-
 <p align="center">
 <h1><b>Coulson Financial Services</b></h1>
 <h4><b>A new Angular/Bootstrap website for Coulson Financial Services </b></h4>
